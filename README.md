@@ -1,9 +1,7 @@
 
 # Personal treehouse achievements 
-## Tracks completed 
-
-
-	### Front End Web Development 
+	## Tracks completed 
+ 	Front End Web Development 
 		* CSS Basics 
 		* JavaScript Basics
 		* CSS Layout Basics 
