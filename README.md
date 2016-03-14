@@ -63,5 +63,8 @@
 	* ActiveRecord Basics
 	* User Authentication with Rails 
 
+View the achievement as JSON
+https://teamtreehouse.com/amathiaitishar.json
+
 
 
